@@ -1,0 +1,9 @@
+aws_region = "eu-west-1"
+
+app_name = "orqestra-insight-hub-demo"
+
+repository_url = "https://github.com/DevRepublic-NL/orqestra-insight-hub-new"
+
+branch_name = "main"
+
+github_token = "<githubpat-token>"
