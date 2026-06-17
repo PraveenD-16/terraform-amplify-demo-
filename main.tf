@@ -75,7 +75,6 @@ EOT
 tags = {
 Project     = "Orqestra"
 ManagedBy   = "Terraform"
-Owner       = "Bhushan & Praveen"
 Environment = "Demo"
 }
 
