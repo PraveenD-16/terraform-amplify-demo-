@@ -19,7 +19,6 @@ New Application:
 * Region: eu-west-1
 * Branch: main
 
----
 
 ## Prerequisites
 
@@ -129,7 +128,6 @@ AWS Amplify Branch
 
 * main
 
----
 
 ## Outputs
 
@@ -139,8 +137,6 @@ Amplify Application ID
 
 Amplify Default Domain
 
----
-
 ## Notes
 
 * Repository is private.
@@ -148,9 +144,12 @@ Amplify Default Domain
 * AWS credentials must be configured before running Terraform.
 * Terraform code should be reviewed before applying changes.
 
+<<<<<<< HEAD
 ---
 
 ## Author
 
 Praveen Dwivedi
 
+=======
+>>>>>>> fd6da77c351be1b737bd33c7bab0fdda8796fc0e
