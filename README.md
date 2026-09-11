@@ -152,8 +152,5 @@ Amplify Default Domain
 
 ## Author
 
-Bhushan and Praveen Dwivedi
-
-Terraform Learning Project
-AWS Amplify Infrastructure as Code
+Praveen Dwivedi
 
